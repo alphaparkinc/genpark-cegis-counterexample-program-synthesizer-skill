@@ -1,0 +1,20 @@
+{
+  "name": "genpark-cegis-counterexample-program-synthesizer-skill",
+  "version": "1.0.0",
+  "description": "Counterexample-Guided Inductive Synthesis (CEGIS) loop generating code expressions matching specifications",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "cegis",
+    "program-synthesis",
+    "inductive-synthesis",
+    "counterexamples",
+    "formal-methods",
+    "python-standard-library",
+    "agent-skills",
+    "program-repair",
+    "automated-synthesis",
+    "search-space"
+  ]
+}
