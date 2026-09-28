@@ -1,0 +1,6 @@
+name: genpark-cegis-counterexample-program-synthesizer-skill
+version: 1.0.0
+description: Counterexample-Guided Inductive Synthesis (CEGIS) loop generating code expressions matching specifications
+command: python
+args:
+  - mcp_server.py
